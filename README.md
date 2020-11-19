@@ -9,11 +9,11 @@
 3. <a href="#license">License</a>
 4. <a href="#questions">Issues and Questions</a>
 <hr><h3 id='description'>Description</h3>
-This simple python program uses the turtle module to draw concentric hearts.
+<p>This simple python program uses the turtle module to draw concentric hearts.</p>
 
 ![image](https://user-images.githubusercontent.com/64618290/99635907-89c54580-29f7-11eb-9a95-05295cbcd0eb.png)
 
- A <i>for</i> loop is used to draw each successive heart. The size of each heart decreases with each run of the loop. Variables are set for the number of drawn hearts, as well as draw speed. The color also changes, by incrementing the index of an array of colors with each subsequent loop. Finally, the actual drawing in a separate window is handled by the turtle module included with python. Documentation for the turtle module is freely available online. 
+<p> A <i>for</i> loop is used to draw each successive heart. The size of each heart decreases with each run of the loop. Variables are set for the number of drawn hearts, as well as draw speed. The color also changes, by incrementing the index of an array of colors with each subsequent loop. Finally, the actual drawing in a separate window is handled by the turtle module included with python. Documentation for the turtle module is freely available online. </p>
 
 
 <h3 id='installation'>Installation</h3>
